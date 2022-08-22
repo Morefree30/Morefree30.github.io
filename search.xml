@@ -4,6 +4,45 @@
   
     
     <entry>
+      <title>中文标题终于能正常显示了</title>
+      <link href="/posts/7f6c.html"/>
+      <url>/posts/7f6c.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>测试markdown的语法</strong><br>    &#x3D;&#x3D;测试一下高亮&#x3D;&#x3D;</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">E = mc^2</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\ce&#123;SO4^2- + Ba^2+ -&gt; BaSO4 v&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">flowchart LR</span><br><span class="line">    Start --&gt; Stop</span><br></pre></td></tr></table></figure><p>发布试试能不能用</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中文标题为什么不显示呢</title>
+      <link href="/posts/15d3.html"/>
+      <url>/posts/15d3.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello</title>
+      <link href="/posts/34d2.html"/>
+      <url>/posts/34d2.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/posts/0.html"/>
       <url>/posts/0.html</url>
