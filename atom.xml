@@ -6,7 +6,7 @@
   <link href="https://morefree30.github.io/atom.xml" rel="self"/>
   
   <link href="https://morefree30.github.io/"/>
-  <updated>2022-08-23T14:33:45.019Z</updated>
+  <updated>2022-08-23T15:34:54.725Z</updated>
   <id>https://morefree30.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://morefree30.github.io/posts/d90e.html"/>
     <id>https://morefree30.github.io/posts/d90e.html</id>
     <published>2022-08-23T14:30:33.000Z</published>
-    <updated>2022-08-23T14:33:45.019Z</updated>
+    <updated>2022-08-23T15:34:54.725Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>&emsp;&emsp;转眼暑期已经结束，从2月开始也断断续续写了些复盘，但其实大都没多大作用，因为我老是一天打鱼，七天晒网。学习进度也比常规进展慢的多——以至于现在高数强化和线代基础都没学完…惨不忍睹，剩下的也不多言了。<br>&emsp;&emsp;关于为什么写记录？方便自己对复习方法及策略进行调整，避免自己感动自己，也当个监督自己学习的方法吧。<br>&emsp;&emsp;其实从准备考研开始我就一直在思考一个哲学问题：为什么有些人明明很努力，最后却还考不上。为什么有些人每天都往图书馆跑，最后结果还是不理想。我只是希望我不会这样，到最后还把这一切归咎为所谓的“天赋”。<br>&emsp;&emsp;多说无益，矫情也好，吹牛逼也罢。只是个小人物的生活点滴记录。只是个“UnderDog”在书写自己的故事。           </p><p><strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;From underrated to undeniable</strong>  </p>  <psw>写于2022.8.23 晚</psw>]]></content>
+    <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>&emsp;&emsp;转眼暑期已经结束，从2月开始也断断续续写了些复盘，但其实大都没多大作用，因为我老是一天打鱼，七天晒网。学习进度也比常规进展慢的多——以至于现在高数强化和线代基础都没学完…惨不忍睹，剩下的也不多言了。<br>&emsp;&emsp;关于为什么写记录？方便自己对复习方法及策略进行调整，避免自己感动自己，也当个监督自己学习的方法吧。<br>&emsp;&emsp;其实从准备考研开始我就一直在思考一个哲学问题：为什么有些人明明很努力，最后却还考不上。为什么有些人每天都往图书馆跑，最后结果还是不理想。我只是希望我不会这样，到最后还把这一切归咎为所谓的“天赋”。<br>&emsp;&emsp;多说无益，矫情也好，吹牛逼也罢。只是个小人物的生活点滴记录，只是个“UnderDog”在书写自己的故事。           </p><center><big>From underrated to undeniable</big></center><p align="right"><psw>写于2022.8.23 晚</psw></p>]]></content>
     
     
       
@@ -35,26 +35,6 @@
     
     
     <category term="考研" scheme="https://morefree30.github.io/tags/%E8%80%83%E7%A0%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://morefree30.github.io/posts/3eeb.html"/>
-    <id>https://morefree30.github.io/posts/3eeb.html</id>
-    <published>2022-08-22T03:17:04.579Z</published>
-    <updated>2022-08-22T04:50:38.881Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
