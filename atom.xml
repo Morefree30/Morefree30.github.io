@@ -6,7 +6,7 @@
   <link href="https://morefree30.github.io/atom.xml" rel="self"/>
   
   <link href="https://morefree30.github.io/"/>
-  <updated>2022-08-22T08:49:44.557Z</updated>
+  <updated>2022-08-22T04:50:38.881Z</updated>
   <id>https://morefree30.github.io/</id>
   
   <author>
@@ -15,95 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>中文标题终于能正常显示了</title>
-    <link href="https://morefree30.github.io/posts/7f6c.html"/>
-    <id>https://morefree30.github.io/posts/7f6c.html</id>
-    <published>2022-08-22T08:46:41.000Z</published>
-    <updated>2022-08-22T08:49:44.557Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>测试markdown的语法</strong><br>    ==测试一下高亮==</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">E = mc^2</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\ce&#123;SO4^2- + Ba^2+ -&gt; BaSO4 v&#125;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">flowchart LR</span><br><span class="line">    Start --&gt; Stop</span><br></pre></td></tr></table></figure><p>发布试试能不能用</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;strong&gt;测试markdown的语法&lt;/strong&gt;&lt;br&gt;    ==测试一下高亮==&lt;/p&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>中文标题为什么不显示呢</title>
-    <link href="https://morefree30.github.io/posts/15d3.html"/>
-    <id>https://morefree30.github.io/posts/15d3.html</id>
-    <published>2022-08-22T08:45:22.000Z</published>
-    <updated>2022-08-22T08:45:37.930Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hello</title>
-    <link href="https://morefree30.github.io/posts/34d2.html"/>
-    <id>https://morefree30.github.io/posts/34d2.html</id>
-    <published>2022-08-22T08:37:41.000Z</published>
-    <updated>2022-08-22T08:38:44.744Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://morefree30.github.io/posts/0.html"/>
-    <id>https://morefree30.github.io/posts/0.html</id>
-    <published>2022-08-22T08:28:06.177Z</published>
-    <updated>2022-08-22T08:28:50.613Z</updated>
-    
-    <content type="html"><![CDATA[<p>所以这个好用吗<br><strong>能保存到本地吗</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;所以这个好用吗&lt;br&gt;&lt;strong&gt;能保存到本地吗&lt;/strong&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://morefree30.github.io/posts/0.html"/>
-    <id>https://morefree30.github.io/posts/0.html</id>
-    <published>2022-08-22T08:07:39.650Z</published>
-    <updated>2022-08-22T08:09:33.309Z</updated>
-    
-    <content type="html"><![CDATA[<p>欢迎大家访问我的网站<br>努力建设中<del>·</del>~</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;欢迎大家访问我的网站&lt;br&gt;努力建设中&lt;del&gt;·&lt;/del&gt;~&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
